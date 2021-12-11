@@ -1,3 +1,7 @@
-## Idea
+#React Mini Project 
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+###Birthday reminder App
+
+It is a part of React-mini project series.
+
+
